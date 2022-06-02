@@ -1,0 +1,9 @@
+1654130430796	geckodriver	INFO	Listening on 127.0.0.1:63895
+1654130431365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileLYZtH4"
+1654130431962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileLYZtH4\\search.json.mozlz4", (void 0)))
+1654130434591	Marionette	INFO	Listening on port 63914
+Read port: 63914
+1654130434730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1654130466220	Marionette	INFO	Stopped listening on port 63914
